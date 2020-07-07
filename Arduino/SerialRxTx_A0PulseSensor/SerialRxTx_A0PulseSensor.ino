@@ -1,5 +1,5 @@
 #define INT_MICROS 2000 //500Hz = 1M/MICRO_S;
-#define pulseSensorPin A9
+#define pulseSensorPin A0
 
 int data = 0;
 long timer = micros(); //timer
