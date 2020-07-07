@@ -1,5 +1,5 @@
 # Real-time HRV calculation and collection from PPG signal
-dr. Rong-Hao Liang | *TU Eindhoven* | *r.liang@tue.nl*
+Dr. Rong-Hao Liang | *TU Eindhoven* | r.liang@tue.nl
 
 ## Prerequisites:
 
